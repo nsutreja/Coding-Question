@@ -7,6 +7,10 @@ Write an interface for a data structure that can provide the moving average of t
 ### Minimum Requirements
 
 1. Provide a separate interface (IE `interface`/`trait`) with documentation for the data structure
+		interface Test {
+			public void average();//interface method without body
+		}
+		
 2. Provide an implementation for the interface
 3. Provide any additional explanation about the interface and implementation in a README file.
 
